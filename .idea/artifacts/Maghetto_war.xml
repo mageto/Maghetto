@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Maghetto:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringMVC-1.0-Trial.war">
+      <element id="artifact" artifact-name="Maghetto:war exploded" />
+    </root>
+  </artifact>
+</component>

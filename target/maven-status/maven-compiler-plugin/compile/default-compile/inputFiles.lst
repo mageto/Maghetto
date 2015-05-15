@@ -1,0 +1,11 @@
+/home/denis/IdeaProjects/Maghetto/src/main/java/org/mageto/SpringMVC/service/DrugService.java
+/home/denis/IdeaProjects/Maghetto/src/main/java/org/mageto/SpringMVC/service/PatientServiceImpl.java
+/home/denis/IdeaProjects/Maghetto/src/main/java/org/mageto/SpringMVC/dao/PatientDao.java
+/home/denis/IdeaProjects/Maghetto/src/main/java/org/mageto/SpringMVC/model/Patient.java
+/home/denis/IdeaProjects/Maghetto/src/main/java/org/mageto/SpringMVC/controller/PatientController.java
+/home/denis/IdeaProjects/Maghetto/src/main/java/org/mageto/SpringMVC/dao/DrugDaoImpl.java
+/home/denis/IdeaProjects/Maghetto/src/main/java/org/mageto/SpringMVC/model/Drug.java
+/home/denis/IdeaProjects/Maghetto/src/main/java/org/mageto/SpringMVC/service/PatientService.java
+/home/denis/IdeaProjects/Maghetto/src/main/java/org/mageto/SpringMVC/dao/DrugDao.java
+/home/denis/IdeaProjects/Maghetto/src/main/java/org/mageto/SpringMVC/dao/PatientDaoImpl.java
+/home/denis/IdeaProjects/Maghetto/src/main/java/org/mageto/SpringMVC/service/DrugServiceImpl.java
